@@ -68,7 +68,7 @@ public:
     }
 };
 
-int maain(){
+int main(){
     Queue q;
     int choice, value;
     do{
@@ -116,4 +116,5 @@ int maain(){
         }
     }while(choice!=0);
     return 0;
+
 }
